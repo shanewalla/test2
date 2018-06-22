@@ -1,0 +1,661 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="Sky News HD" tvg-name="Sky Sports News" tvg-logo="" group-title="SPORTS",Sky Sports News
+http://thebest.allgood.ws:25461/live/n4/n4/34941.m3u8
+#EXTINF:-1 tvg-id="Sky Sports Action HD" tvg-name="Sky Sports Action" tvg-logo="" group-title="SPORTS",Sky Sports Action
+http://thebest.allgood.ws:25461/live/n4/n4/34944.m3u8
+#EXTINF:-1 tvg-id="Sky Sports Arena HD" tvg-name="Sky Sports Arena" tvg-logo="" group-title="SPORTS",Sky Sports Arena
+http://thebest.allgood.ws:25461/live/n4/n4/34943.m3u8
+#EXTINF:-1 tvg-id="Sky Sports Cricket HD" tvg-name="Sky Sports Cricket" tvg-logo="" group-title="SPORTS",Sky Sports Cricket
+http://thebest.allgood.ws:25461/live/n4/n4/34947.m3u8
+#EXTINF:-1 tvg-id="Sky Sports Golf HD" tvg-name="Sky Sports Golf" tvg-logo="" group-title="SPORTS",Sky Sports Golf
+http://thebest.allgood.ws:25461/live/n4/n4/34946.m3u8
+#EXTINF:-1 tvg-id="skysportsmainevent.uk" tvg-name="Sky Sports Main Event" tvg-logo="" group-title="SPORTS",Sky Sports Main Event
+http://thebest.allgood.ws:25461/live/n4/n4/34950.m3u8
+#EXTINF:-1 tvg-id="skysportspremiereleague.uk" tvg-name="Sky Premier League" tvg-logo="" group-title="SPORTS",Sky Premier League
+http://thebest.allgood.ws:25461/live/n4/n4/34949.m3u8
+#EXTINF:-1 tvg-id="skysportsf1.uk" tvg-name="Sky Sports F1" tvg-logo="" group-title="SPORTS",Sky Sports F1
+http://thebest.allgood.ws:25461/live/n4/n4/34945.m3u8
+#EXTINF:-1 tvg-id="skysportsfootball.uk" tvg-name="Sky Sports Football" tvg-logo="" group-title="SPORTS",Sky Sports Football
+http://thebest.allgood.ws:25461/live/n4/n4/34948.m3u8
+#EXTINF:-1 tvg-id="skysportsmix.uk" tvg-name="Sky Sports Mix" tvg-logo="" group-title="SPORTS",Sky Sports Mix
+http://thebest.allgood.ws:25461/live/n4/n4/34942.m3u8
+#EXTINF:-1 tvg-id="BT Sport 1HD" tvg-name="BT Sport 1" tvg-logo="" group-title="SPORTS",BT Sport 1
+http://thebest.allgood.ws:25461/live/n4/n4/34923.m3u8
+#EXTINF:-1 tvg-id="btsport2.uk" tvg-name="BT Sport 2" tvg-logo="" group-title="SPORTS",BT Sport 2
+http://thebest.allgood.ws:25461/live/n4/n4/34921.m3u8
+#EXTINF:-1 tvg-id="BT Sport 3" tvg-name="BT Sport 3" tvg-logo="" group-title="SPORTS",BT Sport 3
+http://thebest.allgood.ws:25461/live/n4/n4/34919.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BT Sport ESPN HD" tvg-logo="" group-title="SPORTS",BT Sport ESPN HD
+http://thebest.allgood.ws:25461/live/n4/n4/34918.m3u8
+#EXTINF:-1 tvg-id="At The Races" tvg-name="AT THE RACES" tvg-logo="" group-title="SPORTS",AT THE RACES
+http://thebest.allgood.ws:25461/live/n4/n4/35608.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Racing UK" tvg-logo="" group-title="SPORTS",Racing UK
+http://thebest.allgood.ws:25461/live/n4/n4/34934.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TSN 4 HD" tvg-logo="" group-title="SPORTS",TSN 4 HD
+http://thebest.allgood.ws:25461/live/n4/n4/34912.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS 1 HD" tvg-logo="" group-title="SPORTS",BEIN SPORTS 1 HD
+http://thebest.allgood.ws:25461/live/n4/n4/34910.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS 10 HD" tvg-logo="" group-title="SPORTS",BEIN SPORTS 10 HD
+http://thebest.allgood.ws:25461/live/n4/n4/34901.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS 11 HD" tvg-logo="" group-title="SPORTS",BEIN SPORTS 11 HD
+http://thebest.allgood.ws:25461/live/n4/n4/34900.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS 12 HD" tvg-logo="" group-title="SPORTS",BEIN SPORTS 12 HD
+http://thebest.allgood.ws:25461/live/n4/n4/34899.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS 2 HD" tvg-logo="" group-title="SPORTS",BEIN SPORTS 2 HD
+http://thebest.allgood.ws:25461/live/n4/n4/34909.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS 3 HD" tvg-logo="" group-title="SPORTS",BEIN SPORTS 3 HD
+http://thebest.allgood.ws:25461/live/n4/n4/34908.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS 4 HD" tvg-logo="" group-title="SPORTS",BEIN SPORTS 4 HD
+http://thebest.allgood.ws:25461/live/n4/n4/34907.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS 5 HD" tvg-logo="" group-title="SPORTS",BEIN SPORTS 5 HD
+http://thebest.allgood.ws:25461/live/n4/n4/34906.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS 6 HD" tvg-logo="" group-title="SPORTS",BEIN SPORTS 6 HD
+http://thebest.allgood.ws:25461/live/n4/n4/34905.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS 7 HD" tvg-logo="" group-title="SPORTS",BEIN SPORTS 7 HD
+http://thebest.allgood.ws:25461/live/n4/n4/34904.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS 8 HD" tvg-logo="" group-title="SPORTS",BEIN SPORTS 8 HD
+http://thebest.allgood.ws:25461/live/n4/n4/34903.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS 9 HD" tvg-logo="" group-title="SPORTS",BEIN SPORTS 9 HD
+http://thebest.allgood.ws:25461/live/n4/n4/34902.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Lfc TV" tvg-logo="" group-title="SPORTS",Lfc TV
+http://thebest.allgood.ws:25461/live/n4/n4/34929.m3u8
+#EXTINF:-1 tvg-id="LFC TV" tvg-name="UK: LFC-TV" tvg-logo="" group-title="SPORTS",UK: LFC-TV
+http://thebest.allgood.ws:25461/live/n4/n4/35835.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Boxnation" tvg-logo="" group-title="SPORTS",Boxnation
+http://thebest.allgood.ws:25461/live/n4/n4/34935.m3u8
+#EXTINF:-1 tvg-id="Eurosport 1 HD" tvg-name="Eurosport 1" tvg-logo="" group-title="SPORTS",Eurosport 1
+http://thebest.allgood.ws:25461/live/n4/n4/34938.m3u8
+#EXTINF:-1 tvg-id="FreeSports" tvg-name="FREE SPORT" tvg-logo="" group-title="SPORTS",FREE SPORT
+http://thebest.allgood.ws:25461/live/n4/n4/35613.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="WILLIAM HILL" tvg-logo="" group-title="SPORTS",WILLIAM HILL
+http://whill.tscplayer.net/bettingshop/stream2000/playlist.m3u8
+#EXTINF:-1 tvg-id="Premier Sports" tvg-name="Premier Sports" tvg-logo="" group-title="SPORTS",Premier Sports
+http://thebest.allgood.ws:25461/live/n4/n4/34940.m3u8
+#EXTINF:-1 tvg-id="eurosport2.uk" tvg-name="Eurosport 2" tvg-logo="" group-title="SPORTS",Eurosport 2
+http://thebest.allgood.ws:25461/live/n4/n4/34937.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Fox Sports 2" tvg-logo="" group-title="SPORTS",Fox Sports 2
+http://thebest.allgood.ws:25461/live/n4/n4/34916.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="sky Net Sports 1" tvg-logo="" group-title="PREMS-3PM KICKOFFS",sky Net Sports 1
+http://thebest.allgood.ws:25461/live/n4/n4/35583.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="sky Net Sports 2" tvg-logo="" group-title="PREMS-3PM KICKOFFS",sky Net Sports 2
+http://thebest.allgood.ws:25461/live/n4/n4/35582.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="sky Net Sports 3" tvg-logo="" group-title="PREMS-3PM KICKOFFS",sky Net Sports 3
+http://thebest.allgood.ws:25461/live/n4/n4/35581.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="sky Net Sports 4" tvg-logo="" group-title="PREMS-3PM KICKOFFS",sky Net Sports 4
+http://thebest.allgood.ws:25461/live/n4/n4/35580.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="sky Net Sports 5" tvg-logo="" group-title="PREMS-3PM KICKOFFS",sky Net Sports 5
+http://thebest.allgood.ws:25461/live/n4/n4/35579.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="sky Net Sports 6" tvg-logo="" group-title="PREMS-3PM KICKOFFS",sky Net Sports 6
+http://thebest.allgood.ws:25461/live/n4/n4/35578.m3u8
+#EXTINF:-1 tvg-id="mutv.uk" tvg-name="MUTV" tvg-logo="" group-title="SPORTS",MUTV
+http://thebest.allgood.ws:25461/live/n4/n4/34928.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AR_ beIN Sports 1 HD" tvg-logo="" group-title="",AR_ beIN Sports 1 HD
+http://thebest.allgood.ws:25461/live/n4/n4/35928.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AR_beIN Sports 2 HD" tvg-logo="" group-title="SPORTS",AR_beIN Sports 2 HD
+http://thebest.allgood.ws:25461/live/n4/n4/35927.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AR_beIN Sports 3 HD" tvg-logo="" group-title="",AR_beIN Sports 3 HD
+http://thebest.allgood.ws:25461/live/n4/n4/35926.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AR_beIN Sports 4 HD" tvg-logo="" group-title="",AR_beIN Sports 4 HD
+http://thebest.allgood.ws:25461/live/n4/n4/35925.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AR_ beIN Sports 5 HD" tvg-logo="" group-title="",AR_ beIN Sports 5 HD
+http://thebest.allgood.ws:25461/live/n4/n4/35924.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AR_beIN Sports 6 HD" tvg-logo="" group-title="",AR_beIN Sports 6 HD
+http://thebest.allgood.ws:25461/live/n4/n4/35923.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AR_beIN Sports 7 HD" tvg-logo="" group-title="",AR_beIN Sports 7 HD
+http://thebest.allgood.ws:25461/live/n4/n4/35922.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AR_beIN Sports 9 HD" tvg-logo="" group-title="",AR_beIN Sports 9 HD
+http://thebest.allgood.ws:25461/live/n4/n4/35921.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AR_beIN Sports 10 HD" tvg-logo="" group-title="SPORTS",AR_beIN Sports 10 HD
+http://xpeediptvpro.dtdns.net:12000/live/OX6o7j6zNm/vRpqBb0oGG/11.ts
+#EXTINF:-1 tvg-id="" tvg-name="WWE Network" tvg-logo="" group-title="SPORTS",WWE Network
+http://thebest.allgood.ws:25461/live/n4/n4/34925.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="D: BBC One West Midlands" tvg-logo="" group-title="ENTERTAINMENT",D: BBC One West Midlands
+http://a.files.bbci.co.uk/media/live/manifesto/audio_video/simulcast/hls/uk/hls_tablet/ak/bbc_one_hd.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="D: BBC One Yorks" tvg-logo="" group-title="ENTERTAINMENT",D: BBC One Yorks
+http://a.files.bbci.co.uk/media/live/manifesto/audio_video/simulcast/hls/uk/hls_tablet/ak/bbc_one_hd.m3u8
+#EXTINF:-1 tvg-id="bbc2.uk" tvg-name="D: BBC Two" tvg-logo="" group-title="ENTERTAINMENT",D: BBC Two
+http://a.files.bbci.co.uk/media/live/manifesto/audio_video/simulcast/hls/uk/abr_hdtv/ak/bbc_two_hd.m3u8
+#EXTINF:-1 tvg-id="bbc4.uk" tvg-name="D: BBC Four" tvg-logo="" group-title="ENTERTAINMENT",D: BBC Four
+http://a.files.bbci.co.uk/media/live/manifesto/audio_video/simulcast/hls/uk/abr_hdtv/ak/bbc_four_hd.m3u8
+#EXTINF:-1 tvg-id="bbcnews.uk" tvg-name="BBC NEWS" tvg-logo="" group-title="ENTERTAINMENT",BBC NEWS
+http://thebest.allgood.ws:25461/live/n4/n4/36541.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="D: S4C" tvg-logo="" group-title="ENTERTAINMENT",D: S4C
+http://a.files.bbci.co.uk/media/live/manifesto/audio_video/simulcast/hls/uk/hls_tablet/ak/s4cpbs.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ITV CENTRAL" tvg-logo="" group-title="ENTERTAINMENT",ITV CENTRAL
+http://thebest.allgood.ws:25461/live/n4/n4/36495.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ITV Yorkshire" tvg-logo="" group-title="ENTERTAINMENT",ITV Yorkshire
+http://thebest.allgood.ws:25461/live/n4/n4/36542.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ITV" tvg-logo="" group-title="ENTERTAINMENT",ITV
+http://thebest.allgood.ws:25461/live/n4/n4/36492.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CHANNEL 4" tvg-logo="" group-title="ENTERTAINMENT",CHANNEL 4
+http://thebest.allgood.ws:25461/live/n4/n4/36493.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CHANNEL 5" tvg-logo="" group-title="ENTERTAINMENT",CHANNEL 5
+http://thebest.allgood.ws:25461/live/n4/n4/36494.m3u8
+#EXTINF:-1 tvg-id="sky1.uk" tvg-name="SKY ONE" tvg-logo="" group-title="ENTERTAINMENT",SKY ONE
+http://thebest.allgood.ws:25461/live/n4/n4/36519.m3u8
+#EXTINF:-1 tvg-id="Sky 2" tvg-name="SKY 2" tvg-logo="" group-title="ENTERTAINMENT",SKY 2
+http://thebest.allgood.ws:25461/live/n4/n4/36520.m3u8
+#EXTINF:-1 tvg-id="skyliving.uk" tvg-name="SKY LIVING" tvg-logo="" group-title="ENTERTAINMENT",SKY LIVING
+http://thebest.allgood.ws:25461/live/n4/n4/36509.m3u8
+#EXTINF:-1 tvg-id="Sky Atlantic" tvg-name="Sky Atlantic" tvg-logo="" group-title="ENTERTAINMENT",Sky Atlantic
+http://thebest.allgood.ws:25461/live/n4/n4/36521.m3u8
+#EXTINF:-1 tvg-id="skynews.uk" tvg-name="SKY NEWS UK" tvg-logo="" group-title="ENTERTAINMENT",SKY NEWS UK
+http://thebest.allgood.ws:25461/live/n4/n4/36540.m3u8
+#EXTINF:-1 tvg-id="itv2.uk" tvg-name="ITV 2" tvg-logo="" group-title="ENTERTAINMENT",ITV 2
+http://thebest.allgood.ws:25461/live/n4/n4/36497.m3u8
+#EXTINF:-1 tvg-id="itv3.uk" tvg-name="ITV 3" tvg-logo="" group-title="ENTERTAINMENT",ITV 3
+http://thebest.allgood.ws:25461/live/n4/n4/36498.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ITV 3 + 1" tvg-logo="" group-title="ENTERTAINMENT",ITV 3 + 1
+http://thebest.allgood.ws:25461/live/n4/n4/36499.m3u8
+#EXTINF:-1 tvg-id="itv4.uk" tvg-name="ITV 4" tvg-logo="" group-title="ENTERTAINMENT",ITV 4
+http://thebest.allgood.ws:25461/live/n4/n4/36500.m3u8
+#EXTINF:-1 tvg-id="itv4plus1.uk" tvg-name="ITV 4 + 1" tvg-logo="" group-title="ENTERTAINMENT",ITV 4 + 1
+http://thebest.allgood.ws:25461/live/n4/n4/36501.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ITV BE" tvg-logo="" group-title="ENTERTAINMENT",ITV BE
+http://thebest.allgood.ws:25461/live/n4/n4/36496.m3u8
+#EXTINF:-1 tvg-id="tlc.uk" tvg-name="TLC" tvg-logo="" group-title="ENTERTAINMENT",TLC
+http://thebest.allgood.ws:25461/live/n4/n4/36543.m3u8
+#EXTINF:-1 tvg-id="challenge.uk" tvg-name="CHALLENGE" tvg-logo="" group-title="ENTERTAINMENT",CHALLENGE
+http://thebest.allgood.ws:25461/live/n4/n4/36502.m3u8
+#EXTINF:-1 tvg-id="more4.uk" tvg-name="MORE 4" tvg-logo="" group-title="ENTERTAINMENT",MORE 4
+http://thebest.allgood.ws:25461/live/n4/n4/36503.m3u8
+#EXTINF:-1 tvg-id="5star.uk" tvg-name="5 STAR" tvg-logo="" group-title="ENTERTAINMENT",5 STAR
+http://thebest.allgood.ws:25461/live/n4/n4/36504.m3u8
+#EXTINF:-1 tvg-id="dave.uk" tvg-name="DAVE" tvg-logo="" group-title="ENTERTAINMENT",DAVE
+http://thebest.allgood.ws:25461/live/n4/n4/36505.m3u8
+#EXTINF:-1 tvg-id="e4.uk" tvg-name="E4" tvg-logo="" group-title="ENTERTAINMENT",E4
+http://thebest.allgood.ws:25461/live/n4/n4/36506.m3u8
+#EXTINF:-1 tvg-id="fiveusa.uk" tvg-name="5 USA" tvg-logo="" group-title="ENTERTAINMENT",5 USA
+http://thebest.allgood.ws:25461/live/n4/n4/36507.m3u8
+#EXTINF:-1 tvg-id="w.uk" tvg-name="WATCH" tvg-logo="" group-title="ENTERTAINMENT",WATCH
+http://thebest.allgood.ws:25461/live/n4/n4/36508.m3u8
+#EXTINF:-1 tvg-id="gold.uk" tvg-name="GOLD" tvg-logo="" group-title="ENTERTAINMENT",GOLD
+http://thebest.allgood.ws:25461/live/n4/n4/36510.m3u8
+#EXTINF:-1 tvg-id="picktv.uk" tvg-name="PICK TV" tvg-logo="" group-title="ENTERTAINMENT",PICK TV
+http://thebest.allgood.ws:25461/live/n4/n4/36511.m3u8
+#EXTINF:-1 tvg-id="drama.uk" tvg-name="DRAMA" tvg-logo="" group-title="ENTERTAINMENT",DRAMA
+http://thebest.allgood.ws:25461/live/n4/n4/36512.m3u8
+#EXTINF:-1 tvg-id="4seven.uk" tvg-name="4 SEVEN" tvg-logo="" group-title="ENTERTAINMENT",4 SEVEN
+http://thebest.allgood.ws:25461/live/n4/n4/36513.m3u8
+#EXTINF:-1 tvg-id="trutv.uk" tvg-name="TRU TV" tvg-logo="" group-title="ENTERTAINMENT",TRU TV
+http://thebest.allgood.ws:25461/live/n4/n4/36514.m3u8
+#EXTINF:-1 tvg-id="cbsdrama.uk" tvg-name="CBS DRAMA" tvg-logo="" group-title="ENTERTAINMENT",CBS DRAMA
+http://thebest.allgood.ws:25461/live/n4/n4/36516.m3u8
+#EXTINF:-1 tvg-id="cbsreality.uk" tvg-name="CBS REALITY" tvg-logo="" group-title="ENTERTAINMENT",CBS REALITY
+http://thebest.allgood.ws:25461/live/n4/n4/36517.m3u8
+#EXTINF:-1 tvg-id="cbsaction.uk" tvg-name="CBS ACTION" tvg-logo="" group-title="ENTERTAINMENT",CBS ACTION
+http://thebest.allgood.ws:25461/live/n4/n4/36518.m3u8
+#EXTINF:-1 tvg-id="bbcnews.uk" tvg-name="D: BBC News Channel" tvg-logo="" group-title="ENTERTAINMENT",D: BBC News Channel
+http://a.files.bbci.co.uk/media/live/manifesto/audio_video/simulcast/hls/uk/abr_hdtv/ak/bbc_news24.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="D: BBC One" tvg-logo="" group-title="ENTERTAINMENT",D: BBC One
+http://a.files.bbci.co.uk/media/live/manifesto/audio_video/simulcast/hls/uk/abr_hdtv/ak/bbc_one_hd.m3u8
+#EXTINF:-1 tvg-id="bbcparliament.uk" tvg-name="D: BBC Parliament" tvg-logo="" group-title="ENTERTAINMENT",D: BBC Parliament
+http://a.files.bbci.co.uk/media/live/manifesto/audio_video/simulcast/hls/uk/hls_tablet/ak/bbc_parliament.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SKY NEWS" tvg-logo="" group-title="ENTERTAINMENT",SKY NEWS
+http://thebest.allgood.ws:25461/live/n4/n4/37225.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="IRE | 3e" tvg-logo="" group-title="IRISH",IRE | 3e
+http://thebest.allgood.ws:25461/live/n4/n4/37253.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="IRE | RTE One HD" tvg-logo="" group-title="IRISH",IRE | RTE One HD
+http://thebest.allgood.ws:25461/live/n4/n4/37251.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="IRE | RTE Two HD" tvg-logo="" group-title="IRISH",IRE | RTE Two HD
+http://thebest.allgood.ws:25461/live/n4/n4/37250.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="IRE | TG4" tvg-logo="" group-title="IRISH",IRE | TG4
+http://thebest.allgood.ws:25461/live/n4/n4/37249.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="IRE | TV3 HD" tvg-logo="" group-title="IRISH",IRE | TV3 HD
+http://thebest.allgood.ws:25461/live/n4/n4/37248.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="UTV HD Ireland" tvg-logo="" group-title="IRISH",UTV HD Ireland
+http://thebest.allgood.ws:25461/live/n4/n4/37254.m3u8
+#EXTINF:-1 tvg-id="animalplanet.uk" tvg-name="UK: Animal Planet" tvg-logo="" group-title="DOCUMENTARIES",UK: Animal Planet
+http://thebest.allgood.ws:25461/live/n4/n4/35002.m3u8
+#EXTINF:-1 tvg-id="CI" tvg-name="UK: Crime & Investigation" tvg-logo="" group-title="DOCUMENTARIES",UK: Crime & Investigation
+http://thebest.allgood.ws:25461/live/n4/n4/35003.m3u8
+#EXTINF:-1 tvg-id="discoverychannel.uk" tvg-name="UK: Discovery" tvg-logo="" group-title="DOCUMENTARIES",UK: Discovery
+http://thebest.allgood.ws:25461/live/n4/n4/35011.m3u8
+#EXTINF:-1 tvg-id="Discovery History" tvg-name="UK: Discovery History" tvg-logo="" group-title="DOCUMENTARIES",UK: Discovery History
+http://thebest.allgood.ws:25461/live/n4/n4/35009.m3u8
+#EXTINF:-1 tvg-id="Discovery Science" tvg-name="UK: Discovery Science" tvg-logo="" group-title="DOCUMENTARIES",UK: Discovery Science
+http://thebest.allgood.ws:25461/live/n4/n4/35005.m3u8
+#EXTINF:-1 tvg-id="Discovery Shed" tvg-name="UK: Discovery Shed" tvg-logo="" group-title="DOCUMENTARIES",UK: Discovery Shed
+http://thebest.allgood.ws:25461/live/n4/n4/35006.m3u8
+#EXTINF:-1 tvg-id="discoveryturbo.uk" tvg-name="UK: Discovery Turbo" tvg-logo="" group-title="DOCUMENTARIES",UK: Discovery Turbo
+http://thebest.allgood.ws:25461/live/n4/n4/35007.m3u8
+#EXTINF:-1 tvg-id="natgeowild.uk" tvg-name="UK: Nat Geo Wild" tvg-logo="" group-title="DOCUMENTARIES",UK: Nat Geo Wild
+http://thebest.allgood.ws:25461/live/n4/n4/35000.m3u8
+#EXTINF:-1 tvg-id="natgeo.uk" tvg-name="UK: Nat Geographic" tvg-logo="" group-title="DOCUMENTARIES",UK: Nat Geographic
+http://thebest.allgood.ws:25461/live/n4/n4/35001.m3u8
+#EXTINF:-1 tvg-id="Investigation Discovery" tvg-name="UK: Investigation Discovery" tvg-logo="" group-title="DOCUMENTARIES",UK: Investigation Discovery
+http://thebest.allgood.ws:25461/live/n4/n4/35004.m3u8
+#EXTINF:-1 tvg-id="history2.uk" tvg-name="UK: H2" tvg-logo="" group-title="DOCUMENTARIES",UK: H2
+http://thebest.allgood.ws:25461/live/n4/n4/34998.m3u8
+#EXTINF:-1 tvg-id="skypremiere.uk" tvg-name="SKY PREMIER" tvg-logo="" group-title="MOVIES",SKY PREMIER
+http://thebest.allgood.ws:25461/live/n4/n4/36524.m3u8
+#EXTINF:-1 tvg-id="skyaction.uk" tvg-name="SKY ACTION" tvg-logo="" group-title="MOVIES",SKY ACTION
+http://thebest.allgood.ws:25461/live/n4/n4/36530.m3u8
+#EXTINF:-1 tvg-id="skycomedy.uk" tvg-name="SKY COMEDY" tvg-logo="" group-title="MOVIES",SKY COMEDY
+http://thebest.allgood.ws:25461/live/n4/n4/36526.m3u8
+#EXTINF:-1 tvg-id="skyscifihorror.uk" tvg-name="SKY CINEMA SCI-FI" tvg-logo="" group-title="MOVIES",SKY CINEMA SCI-FI
+http://thebest.allgood.ws:25461/live/n4/n4/36527.m3u8
+#EXTINF:-1 tvg-id="skycinemaromance.uk" tvg-name="SKY CINEMA DRAMA AND ROMANCE" tvg-logo="" group-title="MOVIES",SKY CINEMA DRAMA AND ROMANCE
+http://thebest.allgood.ws:25461/live/n4/n4/36528.m3u8
+#EXTINF:-1 tvg-id="skydisney.uk" tvg-name="SKY CINEMA DISNEY" tvg-logo="" group-title="MOVIES",SKY CINEMA DISNEY
+http://thebest.allgood.ws:25461/live/n4/n4/36529.m3u8
+#EXTINF:-1 tvg-id="skyfamily.uk" tvg-name="SKY CINEMA FAMILY" tvg-logo="" group-title="MOVIES",SKY CINEMA FAMILY
+http://thebest.allgood.ws:25461/live/n4/n4/36546.m3u8
+#EXTINF:-1 tvg-id="SkyMoviesFamily.uk" tvg-name="SKY FAMILY" tvg-logo="" group-title="MOVIES",SKY FAMILY
+http://thebest.allgood.ws:25461/live/n4/n4/36525.m3u8
+#EXTINF:-1 tvg-id="skygreats.uk" tvg-name="SKY GREATS" tvg-logo="" group-title="MOVIES",SKY GREATS
+http://thebest.allgood.ws:25461/live/n4/n4/36537.m3u8
+#EXTINF:-1 tvg-id="skycrimethriller.uk" tvg-name="SKY THRILLER" tvg-logo="" group-title="MOVIES",SKY THRILLER
+http://thebest.allgood.ws:25461/live/n4/n4/36522.m3u8
+#EXTINF:-1 tvg-id="skyselect.uk" tvg-name="SKY SELECT" tvg-logo="" group-title="MOVIES",SKY SELECT
+http://thebest.allgood.ws:25461/live/n4/n4/36523.m3u8
+#EXTINF:-1 tvg-id="horrorchannel.uk" tvg-name="HORROR CHANNEL" tvg-logo="" group-title="MOVIES",HORROR CHANNEL
+http://thebest.allgood.ws:25461/live/n4/n4/36531.m3u8
+#EXTINF:-1 tvg-id="sonymovies.uk" tvg-name="SONY MOVIES" tvg-logo="" group-title="MOVIES",SONY MOVIES
+http://thebest.allgood.ws:25461/live/n4/n4/36532.m3u8
+#EXTINF:-1 tvg-id="movies4men.uk" tvg-name="MOVIES 4 MEN" tvg-logo="" group-title="MOVIES",MOVIES 4 MEN
+http://thebest.allgood.ws:25461/live/n4/n4/36533.m3u8
+#EXTINF:-1 tvg-id="film4.uk" tvg-name="FILM 4" tvg-logo="" group-title="MOVIES",FILM 4
+http://thebest.allgood.ws:25461/live/n4/n4/36534.m3u8
+#EXTINF:-1 tvg-id="truemovies.uk" tvg-name="TRUE ENTERTAINMENT" tvg-logo="" group-title="MOVIES",TRUE ENTERTAINMENT
+http://thebest.allgood.ws:25461/live/n4/n4/36535.m3u8
+#EXTINF:-1 tvg-id="trueentertainment.uk" tvg-name="TRUE ENTERTAINMENT +1" tvg-logo="" group-title="MOVIES",TRUE ENTERTAINMENT +1
+http://thebest.allgood.ws:25461/live/n4/n4/36536.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MOVIES 24" tvg-logo="" group-title="MOVIES",MOVIES 24
+http://thebest.allgood.ws:25461/live/n4/n4/37224.m3u8
+#EXTINF:-1 tvg-id="tcm.uk" tvg-name="TCM" tvg-logo="" group-title="MOVIES",TCM
+http://thebest.allgood.ws:25461/live/n4/n4/36538.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FILM BOX HD" tvg-logo="" group-title="MOVIES",FILM BOX HD
+http://thebest.allgood.ws:25461/live/n4/n4/36539.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TNT MOVIES" tvg-logo="" group-title="MOVIES",TNT MOVIES
+http://thebest.allgood.ws:25461/live/n4/n4/36545.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="A Nightmare On Elm Street (1984)" tvg-logo="" group-title="VOD FILMS TEST",A Nightmare On Elm Street (1984)
+http://thebest.allgood.ws:25461/live/n4/n4/37261.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="A Nightmare On Elm Street 2 (1985)" tvg-logo="" group-title="VOD FILMS TEST",A Nightmare On Elm Street 2 (1985)
+http://thebest.allgood.ws:25461/live/n4/n4/37260.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="A Nightmare On Elm Street 3 (1987)" tvg-logo="" group-title="VOD FILMS TEST",A Nightmare On Elm Street 3 (1987)
+http://thebest.allgood.ws:25461/live/n4/n4/37259.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="A Nightmare On Elm Street 4 (1988)" tvg-logo="" group-title="VOD FILMS TEST",A Nightmare On Elm Street 4 (1988)
+http://thebest.allgood.ws:25461/live/n4/n4/37258.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="A Nightmare On Elm Street 5 (1989)" tvg-logo="" group-title="VOD FILMS TEST",A Nightmare On Elm Street 5 (1989)
+http://thebest.allgood.ws:25461/live/n4/n4/37257.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="A Nightmare On Elm Street 6 (1991)" tvg-logo="" group-title="VOD FILMS TEST",A Nightmare On Elm Street 6 (1991)
+http://thebest.allgood.ws:25461/live/n4/n4/37256.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="A Nightmare On Elm Street 7 (1994)" tvg-logo="" group-title="VOD FILMS TEST",A Nightmare On Elm Street 7 (1994)
+http://thebest.allgood.ws:25461/live/n4/n4/37255.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="American Pie" tvg-logo="" group-title="VOD FILMS TEST",American Pie
+http://thebest.allgood.ws:25461/live/n4/n4/37288.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="American Pie 2" tvg-logo="" group-title="VOD FILMS TEST",American Pie 2
+http://thebest.allgood.ws:25461/live/n4/n4/37287.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="American Pie 3" tvg-logo="" group-title="VOD FILMS TEST",American Pie 3
+http://thebest.allgood.ws:25461/live/n4/n4/37286.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="American Pie 4" tvg-logo="" group-title="VOD FILMS TEST",American Pie 4
+http://thebest.allgood.ws:25461/live/n4/n4/37285.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="children of the corn 1" tvg-logo="" group-title="VOD FILMS TEST",children of the corn 1
+http://thebest.allgood.ws:25461/live/n4/n4/37270.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Children Of The Corn 2" tvg-logo="" group-title="VOD FILMS TEST",Children Of The Corn 2
+http://thebest.allgood.ws:25461/live/n4/n4/37269.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Children Of The Corn 3" tvg-logo="" group-title="VOD FILMS TEST",Children Of The Corn 3
+http://thebest.allgood.ws:25461/live/n4/n4/37268.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Children Of The Corn 4" tvg-logo="" group-title="VOD FILMS TEST",Children Of The Corn 4
+http://thebest.allgood.ws:25461/live/n4/n4/37267.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Children Of The Corn 5" tvg-logo="" group-title="VOD FILMS TEST",Children Of The Corn 5
+http://thebest.allgood.ws:25461/live/n4/n4/37266.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Children Of The Corn 6" tvg-logo="" group-title="VOD FILMS TEST",Children Of The Corn 6
+http://thebest.allgood.ws:25461/live/n4/n4/37265.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Childs Play" tvg-logo="" group-title="VOD FILMS TEST",Childs Play
+http://thebest.allgood.ws:25461/live/n4/n4/37264.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Childs Play 2" tvg-logo="" group-title="VOD FILMS TEST",Childs Play 2
+http://thebest.allgood.ws:25461/live/n4/n4/37263.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Childs Play 3" tvg-logo="" group-title="VOD FILMS TEST",Childs Play 3
+http://thebest.allgood.ws:25461/live/n4/n4/37262.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Hangover 1" tvg-logo="" group-title="VOD FILMS TEST",Hangover 1
+http://thebest.allgood.ws:25461/live/n4/n4/37291.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Hangover 3" tvg-logo="" group-title="VOD FILMS TEST",Hangover 3
+http://thebest.allgood.ws:25461/live/n4/n4/37289.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="House Party 1" tvg-logo="" group-title="VOD FILMS TEST",House Party 1
+http://thebest.allgood.ws:25461/live/n4/n4/37294.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="House Party 2" tvg-logo="" group-title="VOD FILMS TEST",House Party 2
+http://thebest.allgood.ws:25461/live/n4/n4/37293.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="House Party 3" tvg-logo="" group-title="VOD FILMS TEST",House Party 3
+http://thebest.allgood.ws:25461/live/n4/n4/37292.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="i spit on you grave" tvg-logo="" group-title="VOD FILMS TEST",i spit on you grave
+http://thebest.allgood.ws:25461/live/n4/n4/37273.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Insidious" tvg-logo="" group-title="VOD FILMS TEST",Insidious
+http://thebest.allgood.ws:25461/live/n4/n4/37272.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Insidious 2" tvg-logo="" group-title="VOD FILMS TEST",Insidious 2
+http://thebest.allgood.ws:25461/live/n4/n4/37271.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Saw 1" tvg-logo="" group-title="VOD FILMS TEST",Saw 1
+http://thebest.allgood.ws:25461/live/n4/n4/37280.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Saw 2" tvg-logo="" group-title="VOD FILMS TEST",Saw 2
+http://thebest.allgood.ws:25461/live/n4/n4/37279.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Saw 3" tvg-logo="" group-title="VOD FILMS TEST",Saw 3
+http://thebest.allgood.ws:25461/live/n4/n4/37278.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Saw 4" tvg-logo="" group-title="VOD FILMS TEST",Saw 4
+http://thebest.allgood.ws:25461/live/n4/n4/37277.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Saw 5" tvg-logo="" group-title="VOD FILMS TEST",Saw 5
+http://thebest.allgood.ws:25461/live/n4/n4/37276.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Saw 6" tvg-logo="" group-title="VOD FILMS TEST",Saw 6
+http://thebest.allgood.ws:25461/live/n4/n4/37275.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Saw 7" tvg-logo="" group-title="VOD FILMS TEST",Saw 7
+http://thebest.allgood.ws:25461/live/n4/n4/37274.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="The Godfather 1" tvg-logo="" group-title="VOD FILMS TEST",The Godfather 1
+http://thebest.allgood.ws:25461/live/n4/n4/37283.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="The Godfather 2" tvg-logo="" group-title="VOD FILMS TEST",The Godfather 2
+http://thebest.allgood.ws:25461/live/n4/n4/37282.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="The Godfather 3" tvg-logo="" group-title="VOD FILMS TEST",The Godfather 3
+http://thebest.allgood.ws:25461/live/n4/n4/37281.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Wrong Turn 1" tvg-logo="" group-title="VOD FILMS TEST",Wrong Turn 1
+http://thebest.allgood.ws:25461/live/n4/n4/37299.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Wrong Turn 2" tvg-logo="" group-title="VOD FILMS TEST",Wrong Turn 2
+http://thebest.allgood.ws:25461/live/n4/n4/37298.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Wrong Turn 3" tvg-logo="" group-title="VOD FILMS TEST",Wrong Turn 3
+http://thebest.allgood.ws:25461/live/n4/n4/37297.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Wrong Turn 4" tvg-logo="" group-title="VOD FILMS TEST",Wrong Turn 4
+http://thebest.allgood.ws:25461/live/n4/n4/37296.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Wrong Turn 5" tvg-logo="" group-title="VOD FILMS TEST",Wrong Turn 5
+http://thebest.allgood.ws:25461/live/n4/n4/37295.m3u8
+#EXTINF:-1 tvg-id="boomerang.uk" tvg-name="Boomerang Kids" tvg-logo="" group-title="KIDS",Boomerang Kids
+http://thebest.allgood.ws:25461/live/n4/n4/36544.m3u8
+#EXTINF:-1 tvg-id="Cartoonito" tvg-name="cartoonito" tvg-logo="" group-title="KIDS",cartoonito
+http://thebest.allgood.ws:25461/live/n4/n4/35598.m3u8
+#EXTINF:-1 tvg-id="Cartoon Network" tvg-name="cartoon network" tvg-logo="" group-title="KIDS",cartoon network
+http://thebest.allgood.ws:25461/live/n4/n4/35606.m3u8
+#EXTINF:-1 tvg-id="Nick Jr." tvg-name="NICK JUNIOR" tvg-logo="" group-title="KIDS",NICK JUNIOR
+http://thebest.allgood.ws:25461/live/n4/n4/35602.m3u8
+#EXTINF:-1 tvg-id="Nick Jr HD" tvg-name="UK: Nick JR" tvg-logo="" group-title="KIDS",UK: Nick JR
+http://thebest.allgood.ws:25461/live/n4/n4/35019.m3u8
+#EXTINF:-1 tvg-id="Nick Jr Too" tvg-name="NICK JUNIOR TOO" tvg-logo="" group-title="KIDS",NICK JUNIOR TOO
+http://thebest.allgood.ws:25461/live/n4/n4/35601.m3u8
+#EXTINF:-1 tvg-id="Nicktoons" tvg-name="nick toons" tvg-logo="" group-title="KIDS",nick toons
+http://thebest.allgood.ws:25461/live/n4/n4/35605.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="UK: Nickelodeon" tvg-logo="" group-title="KIDS",UK: Nickelodeon
+http://thebest.allgood.ws:25461/live/n4/n4/35017.m3u8
+#EXTINF:-1 tvg-id="Nicktoons" tvg-name="UK: Nicktoons" tvg-logo="" group-title="KIDS",UK: Nicktoons
+http://thebest.allgood.ws:25461/live/n4/n4/35016.m3u8
+#EXTINF:-1 tvg-id="Pop" tvg-name="UK: Pop" tvg-logo="" group-title="KIDS",UK: Pop
+http://thebest.allgood.ws:25461/live/n4/n4/35014.m3u8
+#EXTINF:-1 tvg-id="Pop Max" tvg-name="UK: Pop Max" tvg-logo="" group-title="KIDS",UK: Pop Max
+http://thebest.allgood.ws:25461/live/n4/n4/35013.m3u8
+#EXTINF:-1 tvg-id="Tiny Pop Freeview" tvg-name="UK: Tiny Pop" tvg-logo="" group-title="KIDS",UK: Tiny Pop
+http://thebest.allgood.ws:25461/live/n4/n4/35012.m3u8
+#EXTINF:-1 tvg-id="tinypop.uk" tvg-name="TINY POP" tvg-logo="" group-title="KIDS",TINY POP
+http://thebest.allgood.ws:25461/live/n4/n4/35603.m3u8
+#EXTINF:-1 tvg-id="destinationamerica.us" tvg-name="USA:.Destination America" tvg-logo="" group-title="USA",USA:.Destination America
+http://thebest.allgood.ws:25461/live/n4/n4/35718.m3u8
+#EXTINF:-1 tvg-id="destinationamerica.us" tvg-name="USA: Destination America" tvg-logo="" group-title="USA",USA: Destination America
+https://content-ausw4.uplynk.com/channel/db762a708aa64082a610346d36654186/h.m3u8?pbs=7ef756186b5e4775bc6dec15cd74dd06
+#EXTINF:-1 tvg-id="aande.us" tvg-name="USA-A&E" tvg-logo="" group-title="USA",USA-A&E
+http://thebest.allgood.ws:25461/live/n4/n4/35798.m3u8
+#EXTINF:-1 tvg-id="aande.us" tvg-name="USA:A&E" tvg-logo="" group-title="USA",USA:A&E
+http://thebest.allgood.ws:25461/live/n4/n4/35717.m3u8
+#EXTINF:-1 tvg-id="aande.us" tvg-name="USA:A&E HD" tvg-logo="" group-title="USA",USA:A&E HD
+http://thebest.allgood.ws:25461/live/n4/n4/35716.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="USA-BRAVO HD" tvg-logo="" group-title="USA",USA-BRAVO HD
+http://thebest.allgood.ws:25461/live/n4/n4/35791.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="USA:-AMC" tvg-logo="" group-title="USA",USA:-AMC
+http://thebest.allgood.ws:25461/live/n4/n4/37232.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="USA:.AMC USA" tvg-logo="" group-title="USA",USA:.AMC USA
+http://thebest.allgood.ws:25461/live/n4/n4/37229.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="USA-DISCOVERY Science HD" tvg-logo="" group-title="USA",USA-DISCOVERY Science HD
+http://thebest.allgood.ws:25461/live/n4/n4/35781.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="USA : CNN" tvg-logo="" group-title="USA",USA : CNN
+http://thebest.allgood.ws:25461/live/n4/n4/37245.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="USA: FOX" tvg-logo="" group-title="USA",USA: FOX
+http://thebest.allgood.ws:25461/live/n4/n4/35086.m3u8
+#EXTINF:-1 tvg-id="syfy.us" tvg-name="USA: SYFY HD" tvg-logo="" group-title="USA",USA: SYFY HD
+http://thebest.allgood.ws:25461/live/n4/n4/35728.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="USA:.BRAVO" tvg-logo="" group-title="USA",USA:.BRAVO
+http://thebest.allgood.ws:25461/live/n4/n4/37228.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="USA: NBC" tvg-logo="" group-title="USA",USA: NBC
+http://thebest.allgood.ws:25461/live/n4/n4/37240.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="USA : NBCSN" tvg-logo="" group-title="USA",USA : NBCSN
+http://thebest.allgood.ws:25461/live/n4/n4/37244.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="USA: FOX SPORTS 1 HD" tvg-logo="" group-title="USA",USA: FOX SPORTS 1 HD
+http://thebest.allgood.ws:25461/live/n4/n4/37242.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="USA: FOX SPORTS 2 HD" tvg-logo="" group-title="USA",USA: FOX SPORTS 2 HD
+http://thebest.allgood.ws:25461/live/n4/n4/37241.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="USA: SkyNet Sports 1" tvg-logo="" group-title="USA",USA: SkyNet Sports 1
+http://thebest.allgood.ws:25461/live/n4/n4/37239.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="USA: TBS HD" tvg-logo="" group-title="USA",USA: TBS HD
+http://thebest.allgood.ws:25461/live/n4/n4/37238.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="USA: TSN 1 HD" tvg-logo="" group-title="USA",USA: TSN 1 HD
+http://thebest.allgood.ws:25461/live/n4/n4/37237.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="USA: TSN 2 HD" tvg-logo="" group-title="USA",USA: TSN 2 HD
+http://thebest.allgood.ws:25461/live/n4/n4/37236.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="USA: TSN 3 HD" tvg-logo="" group-title="USA",USA: TSN 3 HD
+http://thebest.allgood.ws:25461/live/n4/n4/37235.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="USA: TSN 4 HD" tvg-logo="" group-title="USA",USA: TSN 4 HD
+http://thebest.allgood.ws:25461/live/n4/n4/37234.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="USA: TSN 5 HD" tvg-logo="" group-title="USA",USA: TSN 5 HD
+http://thebest.allgood.ws:25461/live/n4/n4/37233.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="USA:. FOX Sport 1" tvg-logo="" group-title="USA",USA:. FOX Sport 1
+http://thebest.allgood.ws:25461/live/n4/n4/37231.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="USA:. FOX Sport 2" tvg-logo="" group-title="USA",USA:. FOX Sport 2
+http://thebest.allgood.ws:25461/live/n4/n4/37230.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="USA:NBC SPORTS" tvg-logo="" group-title="USA",USA:NBC SPORTS
+http://thebest.allgood.ws:25461/live/n4/n4/37227.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="USA:NFL network hd" tvg-logo="" group-title="USA",USA:NFL network hd
+http://thebest.allgood.ws:25461/live/n4/n4/37226.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BOX HITS" tvg-logo="" group-title="MUSIC CHANNELS",BOX HITS
+http://thebest.allgood.ws:25461/live/n4/n4/35032.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MTV HITS" tvg-logo="" group-title="MUSIC CHANNELS",MTV HITS
+http://thebest.allgood.ws:25461/live/n4/n4/34896.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="|IN| Colours" tvg-logo="" group-title="IND & PAK",|IN| Colours
+http://thebest.allgood.ws:25461/live/n4/n4/37247.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="|IN| Sony MIX HD" tvg-logo="" group-title="IND & PAK",|IN| Sony MIX HD
+http://thebest.allgood.ws:25461/live/n4/n4/37246.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AAJTAK NEWS - IND" tvg-logo="" group-title="IND & PAK",AAJTAK NEWS - IND
+http://thebest.allgood.ws:25461/live/n4/n4/35497.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="IN:9X Music India" tvg-logo="" group-title="IND & PAK",IN:9X Music India
+http://thebest.allgood.ws:25461/live/n4/n4/35513.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="IN:Zoom India" tvg-logo="" group-title="IND & PAK",IN:Zoom India
+http://thebest.allgood.ws:25461/live/n4/n4/35507.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="INDIA TODAY - IND" tvg-logo="" group-title="IND & PAK",INDIA TODAY - IND
+http://thebest.allgood.ws:25461/live/n4/n4/35496.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="LIFE OK  - IND" tvg-logo="" group-title="IND & PAK",LIFE OK  - IND
+http://thebest.allgood.ws:25461/live/n4/n4/35492.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="LIFE OK IND HD - IND" tvg-logo="" group-title="IND & PAK",LIFE OK IND HD - IND
+http://thebest.allgood.ws:25461/live/n4/n4/35494.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="RISHTEY EUROPE - IND" tvg-logo="" group-title="IND & PAK",RISHTEY EUROPE - IND
+http://thebest.allgood.ws:25461/live/n4/n4/35498.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SONY ESPN SPORT - IND" tvg-logo="" group-title="IND & PAK",SONY ESPN SPORT - IND
+http://thebest.allgood.ws:25461/live/n4/n4/35499.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="UTV MOVIES - IND" tvg-logo="" group-title="IND & PAK",UTV MOVIES - IND
+http://thebest.allgood.ws:25461/live/n4/n4/35495.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="IN: SabTv" tvg-logo="" group-title="IND & PAK",IN: SabTv
+http://thebest.allgood.ws:25461/live/n4/n4/35516.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="IN: WB Movies" tvg-logo="" group-title="IND & PAK",IN: WB Movies
+http://thebest.allgood.ws:25461/live/n4/n4/35515.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="IN: Zee Cafe Hd" tvg-logo="" group-title="IND & PAK",IN: Zee Cafe Hd
+http://thebest.allgood.ws:25461/live/n4/n4/35514.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="IN:Desi Channel Punjabi" tvg-logo="" group-title="IND & PAK",IN:Desi Channel Punjabi
+http://thebest.allgood.ws:25461/live/n4/n4/35511.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="IN:PTC Panjabi" tvg-logo="" group-title="IND & PAK",IN:PTC Panjabi
+http://thebest.allgood.ws:25461/live/n4/n4/35509.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="IN:Sony MIX HD" tvg-logo="" group-title="IND & PAK",IN:Sony MIX HD
+http://thebest.allgood.ws:25461/live/n4/n4/35508.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DAWN NEWS - PK" tvg-logo="" group-title="IND & PAK",DAWN NEWS - PK
+http://thebest.allgood.ws:25461/live/n4/n4/35475.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="STAGE DRAMA - PK" tvg-logo="" group-title="IND & PAK",STAGE DRAMA - PK
+http://thebest.allgood.ws:25461/live/n4/n4/35477.m3u8
+#EXTINF:-1 tvg-id="clublandtv.uk" tvg-name="CLUBLAND TV" tvg-logo="" group-title="MUSIC CHANNELS",CLUBLAND TV
+https://live-aatw.simplestreamcdn.com/clubland/5/prog_index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="NOW 80S" tvg-logo="" group-title="MUSIC CHANNELS",NOW 80S
+https://live-aatw.simplestreamcdn.com/now/5/prog_index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="NOW 90S" tvg-logo="" group-title="MUSIC CHANNELS",NOW 90S
+https://live-aatw.simplestreamcdn.com/chilled/5/prog_index.m3u8
+#EXTINF:-1 tvg-id="MTV Base" tvg-name="MTV BASE" tvg-logo="" group-title="MUSIC CHANNELS",MTV BASE
+http://thebest.allgood.ws:25461/live/n4/n4/34895.m3u8
+#EXTINF:-1 tvg-id="mtvclassic.uk" tvg-name="MTV CLASSIC" tvg-logo="" group-title="MUSIC CHANNELS",MTV CLASSIC
+http://thebest.allgood.ws:25461/live/n4/n4/34893.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MTV MUSIC" tvg-logo="" group-title="MUSIC CHANNELS",MTV MUSIC
+http://thebest.allgood.ws:25461/live/n4/n4/34897.m3u8
+#EXTINF:-1 tvg-id="vh1.uk" tvg-name="VH1" tvg-logo="" group-title="MUSIC CHANNELS",VH1
+http://thebest.allgood.ws:25461/live/n4/n4/34890.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BEATZ" tvg-logo="" group-title="MUSIC CHANNELS",BEATZ
+http://thebest.allgood.ws:25461/live/n4/n4/35021.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="VIRGIN TV" tvg-logo="" group-title="MUSIC CHANNELS",VIRGIN TV
+http://thebest.allgood.ws:25461/live/n4/n4/35022.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MAGIC" tvg-logo="" group-title="MUSIC CHANNELS",MAGIC
+http://thebest.allgood.ws:25461/live/n4/n4/35023.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AKA" tvg-logo="" group-title="MUSIC CHANNELS",AKA
+https://live-aatw.simplestreamcdn.com/aka/5/prog_index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="THE VAULT" tvg-logo="" group-title="MUSIC CHANNELS",THE VAULT
+http://thebest.allgood.ws:25461/live/n4/n4/35026.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CHART SHOW" tvg-logo="" group-title="MUSIC CHANNELS",CHART SHOW
+http://thebest.allgood.ws:25461/live/n4/n4/35027.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="KISS" tvg-logo="" group-title="MUSIC CHANNELS",KISS
+http://thebest.allgood.ws:25461/live/n4/n4/35029.m3u8
+#EXTINF:-1 tvg-id="4music.uk" tvg-name="4 MUSIC" tvg-logo="" group-title="MUSIC CHANNELS",4 MUSIC
+http://thebest.allgood.ws:25461/live/n4/n4/34892.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MUSIC BOX" tvg-logo="" group-title="MUSIC CHANNELS",MUSIC BOX
+http://thebest.allgood.ws:25461/live/n4/n4/35031.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="XXX :Adult 7" tvg-logo="" group-title="ADULT",XXX :Adult 7
+http://thebest.allgood.ws:25461/live/n4/n4/35564.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="XXX 18: Erotic 12" tvg-logo="" group-title="ADULT",XXX 18: Erotic 12
+http://thebest.allgood.ws:25461/live/n4/n4/35559.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="XXX 18: Erotic 2" tvg-logo="" group-title="ADULT",XXX 18: Erotic 2
+http://thebest.allgood.ws:25461/live/n4/n4/35558.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="XXX 18: Erotic 3" tvg-logo="" group-title="ADULT",XXX 18: Erotic 3
+http://thebest.allgood.ws:25461/live/n4/n4/35557.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="XXX 18: Erotic 6" tvg-logo="" group-title="ADULT",XXX 18: Erotic 6
+http://thebest.allgood.ws:25461/live/n4/n4/35554.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="XXX:  LA FRANCE A POIL 2" tvg-logo="" group-title="ADULT",XXX:  LA FRANCE A POIL 2
+http://thebest.allgood.ws:25461/live/n4/n4/35541.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="XXX:  LA FRANCE A POIL 9" tvg-logo="" group-title="ADULT",XXX:  LA FRANCE A POIL 9
+http://thebest.allgood.ws:25461/live/n4/n4/35537.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="XXX: HOT CLUB 1 HD (diddls serveur)" tvg-logo="" group-title="ADULT",XXX: HOT CLUB 1 HD (diddls serveur)
+http://thebest.allgood.ws:25461/live/n4/n4/35534.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Brazzers_TV XXX" tvg-logo="" group-title="ADULT",Brazzers_TV XXX
+http://thebest.allgood.ws:25461/live/n4/n4/36088.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FRENCHLOVER XXX" tvg-logo="" group-title="ADULT",FRENCHLOVER XXX
+http://thebest.allgood.ws:25461/live/n4/n4/36087.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="O-la-la XXX" tvg-logo="" group-title="ADULT",O-la-la XXX
+http://thebest.allgood.ws:25461/live/n4/n4/36085.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Penthouse_HD_1 XXX" tvg-logo="" group-title="ADULT",Penthouse_HD_1 XXX
+http://thebest.allgood.ws:25461/live/n4/n4/36083.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Penthouse_HD_2 XXX" tvg-logo="" group-title="ADULT",Penthouse_HD_2 XXX
+http://thebest.allgood.ws:25461/live/n4/n4/36082.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Playboy XXX" tvg-logo="" group-title="ADULT",Playboy XXX
+http://thebest.allgood.ws:25461/live/n4/n4/36081.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Redlight_HD XXX" tvg-logo="" group-title="ADULT",Redlight_HD XXX
+http://thebest.allgood.ws:25461/live/n4/n4/36078.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Russkaya_noch XXX" tvg-logo="" group-title="ADULT",Russkaya_noch XXX
+http://thebest.allgood.ws:25461/live/n4/n4/36077.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SCT XXX" tvg-logo="" group-title="ADULT",SCT XXX
+http://thebest.allgood.ws:25461/live/n4/n4/36076.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Video xxx 1 (IT)" tvg-logo="" group-title="ADULT",Video xxx 1 (IT)
+http://thebest.allgood.ws:25461/live/n4/n4/36303.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Video xxx 11 (IT)" tvg-logo="" group-title="ADULT",Video xxx 11 (IT)
+http://thebest.allgood.ws:25461/live/n4/n4/36301.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Video xxx 12 (IT)" tvg-logo="" group-title="ADULT",Video xxx 12 (IT)
+http://thebest.allgood.ws:25461/live/n4/n4/36300.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Video xxx 13 (IT)" tvg-logo="" group-title="ADULT",Video xxx 13 (IT)
+http://thebest.allgood.ws:25461/live/n4/n4/36299.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Video xxx 14 (IT)" tvg-logo="" group-title="ADULT",Video xxx 14 (IT)
+http://thebest.allgood.ws:25461/live/n4/n4/36298.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Video xxx 15 (IT)" tvg-logo="" group-title="ADULT",Video xxx 15 (IT)
+http://thebest.allgood.ws:25461/live/n4/n4/36297.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Video xxx 16 (IT)" tvg-logo="" group-title="ADULT",Video xxx 16 (IT)
+http://thebest.allgood.ws:25461/live/n4/n4/36296.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Video xxx 17 (IT)" tvg-logo="" group-title="ADULT",Video xxx 17 (IT)
+http://thebest.allgood.ws:25461/live/n4/n4/36295.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Video xxx 18 (IT)" tvg-logo="" group-title="ADULT",Video xxx 18 (IT)
+http://thebest.allgood.ws:25461/live/n4/n4/36294.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Video xxx 19 (IT)" tvg-logo="" group-title="ADULT",Video xxx 19 (IT)
+http://thebest.allgood.ws:25461/live/n4/n4/36293.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Video xxx 2 (IT)" tvg-logo="" group-title="ADULT",Video xxx 2 (IT)
+http://thebest.allgood.ws:25461/live/n4/n4/36292.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Video xxx 20 (IT)" tvg-logo="" group-title="ADULT",Video xxx 20 (IT)
+http://thebest.allgood.ws:25461/live/n4/n4/36291.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Video xxx 22 (IT)" tvg-logo="" group-title="ADULT",Video xxx 22 (IT)
+http://thebest.allgood.ws:25461/live/n4/n4/36289.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Video xxx 23 (IT)" tvg-logo="" group-title="ADULT",Video xxx 23 (IT)
+http://thebest.allgood.ws:25461/live/n4/n4/36288.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Video xxx 24 (IT)" tvg-logo="" group-title="ADULT",Video xxx 24 (IT)
+http://thebest.allgood.ws:25461/live/n4/n4/36287.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Video xxx 25 (IT)" tvg-logo="" group-title="ADULT",Video xxx 25 (IT)
+http://thebest.allgood.ws:25461/live/n4/n4/36286.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Video xxx 26 (IT)" tvg-logo="" group-title="ADULT",Video xxx 26 (IT)
+http://thebest.allgood.ws:25461/live/n4/n4/36285.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Video xxx 27 (IT)" tvg-logo="" group-title="ADULT",Video xxx 27 (IT)
+http://thebest.allgood.ws:25461/live/n4/n4/36284.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Video xxx 28 (IT)" tvg-logo="" group-title="ADULT",Video xxx 28 (IT)
+http://thebest.allgood.ws:25461/live/n4/n4/36283.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Video xxx 29 (IT)" tvg-logo="" group-title="ADULT",Video xxx 29 (IT)
+http://thebest.allgood.ws:25461/live/n4/n4/36282.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Video xxx 3 (IT)" tvg-logo="" group-title="ADULT",Video xxx 3 (IT)
+http://thebest.allgood.ws:25461/live/n4/n4/36281.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Video xxx 30 (IT)" tvg-logo="" group-title="ADULT",Video xxx 30 (IT)
+http://thebest.allgood.ws:25461/live/n4/n4/36280.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Video xxx 31 (IT)" tvg-logo="" group-title="ADULT",Video xxx 31 (IT)
+http://thebest.allgood.ws:25461/live/n4/n4/36279.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Video xxx 5 (IT)" tvg-logo="" group-title="ADULT",Video xxx 5 (IT)
+http://thebest.allgood.ws:25461/live/n4/n4/36277.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Video xxx 6 (IT)" tvg-logo="" group-title="ADULT",Video xxx 6 (IT)
+http://thebest.allgood.ws:25461/live/n4/n4/36276.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Video xxx 7 (IT)" tvg-logo="" group-title="ADULT",Video xxx 7 (IT)
+http://thebest.allgood.ws:25461/live/n4/n4/36275.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Video xxx 8 (IT)" tvg-logo="" group-title="ADULT",Video xxx 8 (IT)
+http://thebest.allgood.ws:25461/live/n4/n4/36274.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="|PL| ATM Rozrywka TV" tvg-logo="" group-title="POLISH",|PL| ATM Rozrywka TV
+http://thebest.allgood.ws:25461/live/n4/n4/35469.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="|PL| AXN Black" tvg-logo="" group-title="POLISH",|PL| AXN Black
+http://thebest.allgood.ws:25461/live/n4/n4/35468.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="|PL| AXN Spin HD" tvg-logo="" group-title="POLISH",|PL| AXN Spin HD
+http://thebest.allgood.ws:25461/live/n4/n4/35460.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="|PL| CANAL  FAMILY HD" tvg-logo="" group-title="POLISH",|PL| CANAL  FAMILY HD
+http://thebest.allgood.ws:25461/live/n4/n4/35463.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="|PL| CBS Reality" tvg-logo="" group-title="POLISH",|PL| CBS Reality
+http://thebest.allgood.ws:25461/live/n4/n4/35458.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="|PL| Cinemax 2 HD" tvg-logo="" group-title="POLISH",|PL| Cinemax 2 HD
+http://thebest.allgood.ws:25461/live/n4/n4/35457.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="|PL| Discovery HD" tvg-logo="" group-title="POLISH",|PL| Discovery HD
+http://thebest.allgood.ws:25461/live/n4/n4/35453.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="|PL| HBO 2 HD" tvg-logo="" group-title="POLISH",|PL| HBO 2 HD
+http://thebest.allgood.ws:25461/live/n4/n4/35444.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="|PL| HBO 3 HD" tvg-logo="" group-title="POLISH",|PL| HBO 3 HD
+http://thebest.allgood.ws:25461/live/n4/n4/35443.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="|PL| HBO HD" tvg-logo="" group-title="POLISH",|PL| HBO HD
+http://thebest.allgood.ws:25461/live/n4/n4/35442.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="|PL| KinoPolska" tvg-logo="" group-title="POLISH",|PL| KinoPolska
+http://thebest.allgood.ws:25461/live/n4/n4/35440.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="|PL| Lifetime HD" tvg-logo="" group-title="POLISH",|PL| Lifetime HD
+http://thebest.allgood.ws:25461/live/n4/n4/35438.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="|PL| Nickelodeon HD" tvg-logo="" group-title="POLISH",|PL| Nickelodeon HD
+http://thebest.allgood.ws:25461/live/n4/n4/35434.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="|PL| Planete   HD" tvg-logo="" group-title="POLISH",|PL| Planete   HD
+http://thebest.allgood.ws:25461/live/n4/n4/35431.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="|PL| Polsat Film HD" tvg-logo="" group-title="POLISH",|PL| Polsat Film HD
+http://thebest.allgood.ws:25461/live/n4/n4/35428.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PL: Animal Planet" tvg-logo="" group-title="POLISH",PL: Animal Planet
+http://thebest.allgood.ws:25461/live/n4/n4/36307.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PL: Canal  1 HD" tvg-logo="" group-title="POLISH",PL: Canal  1 HD
+http://thebest.allgood.ws:25461/live/n4/n4/36309.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PL: CANAL  DISCOVERY" tvg-logo="" group-title="POLISH",PL: CANAL  DISCOVERY
+http://thebest.allgood.ws:25461/live/n4/n4/36310.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PL: CANAL  FILM" tvg-logo="" group-title="POLISH",PL: CANAL  FILM
+http://thebest.allgood.ws:25461/live/n4/n4/36311.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PL: Canal  HD" tvg-logo="" group-title="POLISH",PL: Canal  HD
+http://thebest.allgood.ws:25461/live/n4/n4/36312.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PL: Canal  Sport HD" tvg-logo="" group-title="POLISH",PL: Canal  Sport HD
+http://thebest.allgood.ws:25461/live/n4/n4/36313.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PL: Canal Sport 2 HD" tvg-logo="" group-title="POLISH",PL: Canal Sport 2 HD
+http://thebest.allgood.ws:25461/live/n4/n4/36308.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PL: DISCOVERY" tvg-logo="" group-title="POLISH",PL: DISCOVERY
+http://thebest.allgood.ws:25461/live/n4/n4/36314.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PL: DISNEY JR" tvg-logo="" group-title="POLISH",PL: DISNEY JR
+http://thebest.allgood.ws:25461/live/n4/n4/36315.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PL: DOMO" tvg-logo="" group-title="POLISH",PL: DOMO
+http://thebest.allgood.ws:25461/live/n4/n4/36316.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PL: HBO" tvg-logo="" group-title="POLISH",PL: HBO
+http://thebest.allgood.ws:25461/live/n4/n4/36317.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PL: JIM JAM" tvg-logo="" group-title="POLISH",PL: JIM JAM
+http://thebest.allgood.ws:25461/live/n4/n4/36318.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PL: National Geo Wild HD" tvg-logo="" group-title="POLISH",PL: National Geo Wild HD
+http://thebest.allgood.ws:25461/live/n4/n4/36319.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PL: National Geographic HD" tvg-logo="" group-title="POLISH",PL: National Geographic HD
+http://thebest.allgood.ws:25461/live/n4/n4/36320.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PL: TVP 1 HD" tvg-logo="" group-title="POLISH",PL: TVP 1 HD
+http://thebest.allgood.ws:25461/live/n4/n4/36321.m3u8
